@@ -63,3 +63,4 @@ status:string [ACTIVE/INACTIVE] Default: ACTIVE,
 customerID:string [Reference from customer table]
 
 }
+.
