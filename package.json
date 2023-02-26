@@ -1,0 +1,25 @@
+{
+  "name": "costumer-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhshreya425/Card-Customer.git"
+  },
+  "author": "jyoti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhshreya425/Card-Customer.git"
+  },
+  "homepage": "https://github.com/singhshreya425/Card-Customer.git#readme",
+ "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
